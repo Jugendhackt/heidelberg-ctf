@@ -1,6 +1,7 @@
-# Magic Strings 2
+# Mystery file 1
 
-Schau in die Date file.gz und finde das Flag
+Schau in die Datei file.gz und finde das Flag
 
 
 Tipp: File extensions sind nicht immer richtig :)
+

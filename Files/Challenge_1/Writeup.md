@@ -1,4 +1,4 @@
-# Magic Strings 2
+# Mystery file 1
 
 Obwohl die Datei auf `.gz` endet, ist es eine normale Textdatei. Einfach mit einem Editor öffnen
 
