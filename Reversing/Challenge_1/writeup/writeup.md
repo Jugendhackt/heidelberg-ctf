@@ -6,7 +6,7 @@ Die kompilierte Datei muss mit einem Hex-Editor geöffnet werden.
 
 Es ergibt sich folgender Anblick: 
 
-![alt text]()
+![Im Hex editor](hex.PNG)
 
 Hier sieht man die Zeichenfolge 
     
