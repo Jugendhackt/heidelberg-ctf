@@ -6,6 +6,9 @@ slideOptions:
 # CTFs
 ### Capture the flag
 
+![](https://upload.wikimedia.org/wikipedia/commons/8/89/Capture_the_flag_Fahne.jpg =400x)
+<i style="transform: scale(0.3) translate(0, -90px);display: block;">CC BY-SA 3.0 by Ronnie Berzins</i>
+
 <small>von Franka, Lukas und Moritz</small>
 
 ---
